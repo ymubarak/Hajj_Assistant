@@ -25,9 +25,10 @@ To run the program you must have npm installed. You also need to install the fol
 
 ## Run
 
-Go to the view folder and type in the terminal
+Go to the view folder and type in the terminal:
 > node index.js
-A port number will show up, open the browser and go to
+
+A port number will show up, open the browser and go to:
 > localhost:portNumber
 
 # Recogition:
