@@ -13,6 +13,16 @@ Every year, pilgrims face many problems in the communication and guidance, more 
 - It's a wearable smart headphone device with a GPS module that takes speech inquiries through an embedded microphone. It recognizes the content of the query and responding with the relevant reply; this includes information about the current location, useful information about the holy texts and transcripts related to the sacred places the pilgrim visits. 
 - It tracks the user's Hajj journey step by step to provide information about what's next. 
 
+## Install
+
+To run the program you must have npm installed. You also need to install the following:
+
+*socket.io*
+> npm install socket.io --save
+
+*Expression js*
+> npm install expression --save
+
 # Recogition:
 The Voice User Interface (VUI) for demonstrating the prototype is a modified version of the github repository:
 https://github.com/girliemac/web-speech-ai
