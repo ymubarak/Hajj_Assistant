@@ -31,6 +31,6 @@ Go to the view folder and type in the terminal:
 A port number will show up, open the browser and go to:
 > localhost:portNumber
 
-# Recogition:
+# References and Recognitions:
 The Voice User Interface (VUI) for demonstrating the prototype is a modified version of the github repository:
 https://github.com/girliemac/web-speech-ai
