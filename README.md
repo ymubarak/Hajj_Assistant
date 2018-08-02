@@ -23,6 +23,13 @@ To run the program you must have npm installed. You also need to install the fol
 *Expression js*
 > npm install expression --save
 
+## Run
+
+Go to the view folder and type in the terminal
+> node index.js
+A port number will show up, open the browser and go to
+> localhost:portNumber
+
 # Recogition:
 The Voice User Interface (VUI) for demonstrating the prototype is a modified version of the github repository:
 https://github.com/girliemac/web-speech-ai
